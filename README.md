@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for _checking_ my GitHub profile out! I'm a Software Developer, and most of my work resides in FOSS. I have 8+ years of experience learning and using Python and just over 2+ years with Swift. I've taught myself the art and beauty within software development - from just how code looks to using my brain before putting the fingers to the keys.
+Thanks for _checking_ out my GitHub profile! I'm a Software Developer, and most of my work resides in FOSS. I have 8+ years of experience learning and using Python and just over 2+ years with Swift. I've taught myself the art and beauty within software development - from just how code looks to using my brain before putting the fingers to the keys.
 
 ![Awesomeplayer165's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomeplayer165&show_icons=true)
 
